@@ -1,0 +1,14 @@
+c:\Users\aaron\Desktop\Manejo de Archivos\Laboratorio_2_CSV_JSON\Laboratorio_2_CSV_JSON\bin\Debug\net9.0\Laboratorio_2_CSV_JSON.exe
+c:\Users\aaron\Desktop\Manejo de Archivos\Laboratorio_2_CSV_JSON\Laboratorio_2_CSV_JSON\bin\Debug\net9.0\Laboratorio_2_CSV_JSON.deps.json
+c:\Users\aaron\Desktop\Manejo de Archivos\Laboratorio_2_CSV_JSON\Laboratorio_2_CSV_JSON\bin\Debug\net9.0\Laboratorio_2_CSV_JSON.runtimeconfig.json
+c:\Users\aaron\Desktop\Manejo de Archivos\Laboratorio_2_CSV_JSON\Laboratorio_2_CSV_JSON\bin\Debug\net9.0\Laboratorio_2_CSV_JSON.dll
+c:\Users\aaron\Desktop\Manejo de Archivos\Laboratorio_2_CSV_JSON\Laboratorio_2_CSV_JSON\bin\Debug\net9.0\Laboratorio_2_CSV_JSON.pdb
+c:\Users\aaron\Desktop\Manejo de Archivos\Laboratorio_2_CSV_JSON\Laboratorio_2_CSV_JSON\obj\Debug\net9.0\Laboratorio_2_CSV_JSON.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\aaron\Desktop\Manejo de Archivos\Laboratorio_2_CSV_JSON\Laboratorio_2_CSV_JSON\obj\Debug\net9.0\Laboratorio_2_CSV_JSON.AssemblyInfoInputs.cache
+c:\Users\aaron\Desktop\Manejo de Archivos\Laboratorio_2_CSV_JSON\Laboratorio_2_CSV_JSON\obj\Debug\net9.0\Laboratorio_2_CSV_JSON.AssemblyInfo.cs
+c:\Users\aaron\Desktop\Manejo de Archivos\Laboratorio_2_CSV_JSON\Laboratorio_2_CSV_JSON\obj\Debug\net9.0\Laboratorio_2_CSV_JSON.csproj.CoreCompileInputs.cache
+c:\Users\aaron\Desktop\Manejo de Archivos\Laboratorio_2_CSV_JSON\Laboratorio_2_CSV_JSON\obj\Debug\net9.0\Laboratorio_2_CSV_JSON.dll
+c:\Users\aaron\Desktop\Manejo de Archivos\Laboratorio_2_CSV_JSON\Laboratorio_2_CSV_JSON\obj\Debug\net9.0\refint\Laboratorio_2_CSV_JSON.dll
+c:\Users\aaron\Desktop\Manejo de Archivos\Laboratorio_2_CSV_JSON\Laboratorio_2_CSV_JSON\obj\Debug\net9.0\Laboratorio_2_CSV_JSON.pdb
+c:\Users\aaron\Desktop\Manejo de Archivos\Laboratorio_2_CSV_JSON\Laboratorio_2_CSV_JSON\obj\Debug\net9.0\Laboratorio_2_CSV_JSON.genruntimeconfig.cache
+c:\Users\aaron\Desktop\Manejo de Archivos\Laboratorio_2_CSV_JSON\Laboratorio_2_CSV_JSON\obj\Debug\net9.0\ref\Laboratorio_2_CSV_JSON.dll
