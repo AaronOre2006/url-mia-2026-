@@ -9,7 +9,7 @@ class Program
     {
         List<Estudiante> estudiantes = new List<Estudiante>();
 
-        string[] lineas = File.ReadAllLines("estudiantes.csv");
+        string[] lineas = File.ReadAllLines("Aaron_Orellana.csv");
 
         for (int i = 1; i < lineas.Length; i++)
         {
